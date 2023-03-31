@@ -6,7 +6,7 @@ import { createStackNavigator } from '@react-navigation/stack';
 import Login from '../screen/Login';
 import Register from '../screen/Register';
 import ForgotPassword from '../screen/Forgot';
-import Welcome from '../screen/Welcome/index.js';
+import Welcome from '../screen/Welcome';
 
 const AuthStack = createStackNavigator();
 
